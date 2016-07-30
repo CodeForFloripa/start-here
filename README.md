@@ -2,11 +2,11 @@
 
 # Comece Aqui!
 
-Oi! Que massa ver você por aqui! 
+Oi! Que massa ver você por aqui!
 
 Somos um grupo distribuído de voluntários desenvolvendo open source para Floripa, então temos que tomar algumas precauções para garantir um desenvolvimento feliz pra todo mundo \o/
 
-Criamos esse repositório para mostrar como usamos git e github para gerenciar nosso fluxo de código. 
+Criamos esse repositório para mostrar como usamos git e github para gerenciar nosso fluxo de código.
 
 # Passo 1: Fazendo um fork
 
@@ -14,7 +14,7 @@ Depois de quer criado a sua conta gratuita no GitHub, faça um fork desse projet
 
 Para fazer um fork, clique aqui no botão no "fork" no topo da página:
 
-Agora você pode acessar seu repositório em github.com/{seuusuario}/start-here. 
+Agora você pode acessar seu repositório em github.com/{seuusuario}/start-here.
 
 # Passo 2: Clonando para o seu repositório
 
@@ -27,9 +27,10 @@ Agora você pode acessar seu repositório em github.com/{seuusuario}/start-here.
 1. Abra o arquivo users.md
 2. Coloque seu nome na lista de pessoas que fizeram esse tutorial.
 
-# Passo 4: Fazendo um Commit
+# Passo 4: Fazendo um Commit.
+1. No gitkraken, clique em commit.
 
-# Passo 5: Fazendo um Pull Request 
+# Passo 5: Fazendo um Pull Request
 
 # Passo 6: Pegar um cafézinho
 
