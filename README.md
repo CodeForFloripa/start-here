@@ -34,7 +34,7 @@ Tendo escolhido o projeto, abra o arquivo CONTRIBUTING.md localizado na pasta ra
 clonar o projeto, como fazer o setup, convensões do time e outras coisas mais. É essencial que esse arquivo seja lido
 com muita atenção.
 
-Normalmente, adicionamos a lista de coisas a fazer nas **Issues** de cada projeto, as desse projeto estão [aqui](https://github.com/CodeForFloripa/start-here/issues). 
+Normalmente, adicionamos a lista de coisas a fazer nas **Issues** de cada projeto, as desse projeto estão [aqui](https://github.com/CodeForFloripa/git-basics/issues). 
 
 # Encontrou algum erro em alguns dos tutoriais, algo a ser melhorado?
 
