@@ -39,13 +39,24 @@ Agora que você tem uma cópia local, você consegue editar o conteúdo.
 
 ## Passo 4: Fazendo um Commit
 
+No git, temos pontos ao longo do projeto que consideramos importantes, como por exemplo ter implementado 
+uma feature nova, uma correção de bug ou alguma melhoria qualquer. A esses pontos na história damos o nome
+de `commit`. 
+
+Quando você adicionou seu nome na lista, você simplesmente 
+
+
 Na pasta raiz do projeto, digite
 
 ```
 git status
 ```
 
-Se tudo der certo, você verá que apenas o README.md foi modificado. Agora digite
+Se tudo der certo, você verá que apenas o README.md foi modificado:
+
+![Git status](imgs/git-status.png)
+
+Agora digite
 
 ```
 git commit -am "Usuário adicionado ao README.md"
