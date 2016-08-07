@@ -9,7 +9,7 @@ Para fazer um fork, clique aqui no botão no "fork" no topo da página:
 
 ![Criando um fork](imgs/fork.png)
 
-Nesse caso, meu usuário se chama ebonet. Agora você posso acessar seu repositório em github.com/ebonet/start-here.
+Nesse caso, meu usuário se chama ebonet. Agora você posso acessar seu repositório em github.com/seuusuario/git-basics.
 
 ![Forked repo](imgs/ebonet-fork.png)
 
@@ -22,8 +22,8 @@ Depois do passo 1, você tem uma cópia do repositório totalmente sua, mas como
 ou seja, copiar para o seu computador. Para isso, digite os seguintes comandos:
 
 ```
-git clone http://github.com/{seuusuario}/start-here
-cd start-here
+git clone http://github.com/{seuusuario}/git-basics
+cd git-basics
 ```
 
 ## Passo 3: Fazendo modificações
@@ -58,7 +58,7 @@ Porém, esse commit por enquanto só está salvo localmente. Para mandá-lo ao s
 git push
 ```
 
-Agora acesse a sua versão do repositório (`github.com/seuusuario/start-here`), abra o arquivo README.md no site 
+Agora acesse a sua versão do repositório (`github.com/seuusuario/git-basics`), abra o arquivo README.md no site 
 e você verá sua alteração ali \o/.
 
 ## Passo 5: Fazendo um Pull Request 
