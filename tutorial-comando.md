@@ -65,11 +65,19 @@ e você verá sua alteração ali \o/.
 
 As alterações estam salvas online, porém elas foram feitas apenas no seu espelho do repositório original, 
 nada foi adicionado ao repo original do CodeForFloripa. Para fazer isso, você precisa criar um PullRequest,
-que é um pedido para que os membros do time aceitem sua contribuição. Para criar um PullRequest, acesse 
-o repo original e clique em Create PullRequest.
+que é um pedido para que os membros do time aceitem sua contribuição. Para criar um PullRequest:
 
-[WIP]
+1. Acesse o repo original
+2. Clique em `New Pull Request`
+3. Clique em `Compare Across Forks`
+4. Selecione o seu repositório
+5. Clique em `Create Pull Request`
+6. Adicione uma mensagem explicando o motivo do PullRequest e o que foi feito.
+7. Clique em `Confirm`
 
+![PR1](imgs/pr-1.png)
+
+![PR2](imgs/pr-2.png)
 
 Pronto! Agora é só esperar um membro da equipe verificar sua constribuição e adicioná-la ao repositório principal.
 
