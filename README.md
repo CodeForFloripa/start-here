@@ -47,4 +47,5 @@ erros de porutguês, uma foto de um filhote. Edite o seu repositório e crie um 
 seu usuário também. Adicione no formato `[seuusuario](github.com/{seuusuario})`, isso irá gerar um link para o seu perfil
 aqui no github :D. Seria legal se você nos dissesse também se você fez o processo usando interface ou linha de comando.
 
+* [ebonet](github.com/ebonet) - linha de comando
 *
