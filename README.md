@@ -43,9 +43,9 @@ erros de porutguês, uma foto de um filhote. Edite o seu repositório e crie um 
 
 # Quem completou esse tutorial
 
-> Insira seu nome ao final da lista, não esqueça de deixa um item em branco para que a próxima pessoa saiba onde adicionar 
+> Insira seu nome ao final da lista, não esqueça de deixar um item em branco para que a próxima pessoa saiba onde adicionar
 seu usuário também. Adicione no formato `[seuusuario](github.com/{seuusuario})`, isso irá gerar um link para o seu perfil
-aqui no github :D. Seria legal se você nos dissesse também se você fez o processo usando interface ou linha de comando.
+aqui no github :D. Seria legal se você nos dissesse também qual dos tutorias que você fez.
 
 * [ebonet](github.com/ebonet) - linha de comando
 *
